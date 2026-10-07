@@ -43,7 +43,7 @@ J
 Requer apenas **Python 3.8+**. Não há dependências externas (usa só a biblioteca padrão, incluindo `timeit`).
 
 ```bash
-git clone https://github.com/boeckg/ap1-grafos.git
+git clone https://github.com/boeckg/AP1G-Representa-es-estruturas-de-dados-e-buscas-em-grafos.git
 cd ap1-grafos
 ```
 
